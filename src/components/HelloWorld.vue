@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
       Para probar Easy Auth de Azure, hacer clic 
-      <a href="/.auth/login/<facebook?post_login_redirect_url=/public/Index" target="_blank" rel="noopener">aquí</a>.
+      <a href="/.auth/login/facebook?post_login_redirect_url=/public/Index" target="_blank" rel="noopener">aquí</a>.
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
